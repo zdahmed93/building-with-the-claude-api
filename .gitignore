@@ -1,0 +1,7 @@
+# Secrets
+.env
+
+# Deno / editors
+node_modules/
+.ipynb_checkpoints/
+.DS_Store
